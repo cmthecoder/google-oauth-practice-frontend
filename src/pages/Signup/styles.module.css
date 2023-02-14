@@ -39,7 +39,7 @@
 .img {
   width: 160%;
   position: absolute;
-  left: -150px;
+  left: -125px;
   top: -50px;
 }
 
@@ -55,7 +55,7 @@
   font-size: 25px;
   font-weight: 400;
   color: #2c444e;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 .input {
